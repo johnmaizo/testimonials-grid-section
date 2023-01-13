@@ -4,12 +4,12 @@
 
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
 
-  <h2 align="center">QR code component</h2>
+  <h2 align="center">Testimonials grid section</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://stalwart-brigadeiros-003ffe.netlify.app/">View Demo</a>
+    <a href="https://testimonials-grid-section-johnmaizo.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -21,12 +21,12 @@
 
 </div>
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [QR code component using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-cztUhQ7n1c)
-- Live Site URL: [https://stalwart-brigadeiros-003ffe.netlify.app/](https://stalwart-brigadeiros-003ffe.netlify.app/)
+- Solution URL: [Testimonials grid section using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-HFzY6lu_fu)
+- Live Site URL: [https://testimonials-grid-section-johnmaizo.netlify.app/](https://testimonials-grid-section-johnmaizo.netlify.app/)
 
 <br>
 
